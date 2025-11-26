@@ -16,5 +16,3 @@ def order_by_distance(soldiers):
 
 
 
-s = [12,23,34,4532,234]
-print(order_by_distance(s))
